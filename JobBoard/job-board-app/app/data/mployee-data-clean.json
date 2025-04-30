@@ -1,0 +1,198 @@
+[
+  {
+    "Job ID (Numeric)": "33411379",
+    "title": "SAP Project Manager",
+    "company": "Executive Softway Guild India Private Limited",
+    "location": "Hyderabad, Bengaluru",
+    "job_link": "https://www.foundit.in/job/33411379",
+    "employment_type": "Permanent Job",
+    "experience": "10-20 Years",
+    "source": "foundit",
+    "country": "India",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:22:17.710Z"
+    },
+    "companyImageUrl": "https://media.foundit.in/trex/search/public/images/companyLogoDefault.png",
+    "min_exp": 10,
+    "max_exp": 20
+  },
+  {
+    "Job ID (Numeric)": "4106589701",
+    "title": "System Engineer",
+    "company": "SystematizeHA",
+    "location": "Bengaluru, Karnataka, India",
+    "job_link": "https://in.linkedin.com/jobs/view/system-engineer-at-systematizeha-4106589701",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://in.linkedin.com/company/systematizeha",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQE...",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:16:54.134Z"
+    },
+    "min_exp": 6,
+    "max_exp": 8,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106588777",
+    "title": "PLSQL Developer (Flexcube)",
+    "company": "Oracle",
+    "location": "Pune, Maharashtra, India",
+    "job_link": "https://in.linkedin.com/jobs/view/plsql-developer-flexcube-at-oracle-4106588777",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/oracle",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHYCgYovUuPtQ/company-logo_100_100/0/1665755678957/oracle_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:12:41.467Z"
+    },
+    "min_exp": 5,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4107523236",
+    "title": "Senior Data Analyst",
+    "company": "KPMG",
+    "location": "New Delhi, Delhi, India",
+    "job_link": "https://in.linkedin.com/jobs/view/senior-data-analyst-at-kpmg-4107523236",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://ca.linkedin.com/company/kpmg",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQFrqkKAlHCfyA/company-logo_100_100/0/1688581212079/kpmg_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:11:40.154Z"
+    },
+    "min_exp": 6,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4108105284",
+    "title": "Information Technology Business Analyst",
+    "company": "Elektronikmedia (EM)",
+    "location": "Kochi, Kerala, India",
+    "job_link": "https://in.linkedin.com/jobs/view/information-technology-business-analyst-at-elektronikmedia-em-4108105284",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/elektronikmedia",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQHRZW7tg2HLgQ/company-logo_100_100/0/1731406091722/elektronikmedia_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:08:42.069Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4106593331",
+    "title": "Wordpress Developer",
+    "company": "Key Carrier Management Service Pvt. Ltd.",
+    "location": "Ahmedabad, Gujarat, India",
+    "job_link": "https://in.linkedin.com/jobs/view/wordpress-developer-at-key-carrier-management-service-pvt-ltd-4106593331",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/key-cms",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQFNtKCXf8YbuA/company-logo_100_100/0/1667977088988/key_cms_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:08:34.622Z"
+    },
+    "min_exp": 2,
+    "max_exp": 4,
+    "country": "India"
+  },
+  {
+    "Job ID (Numeric)": "4108101598",
+    "title": "Full Stack Developer",
+    "company": "Geval6 Inc",
+    "location": "Pune, Maharashtra, India",
+    "job_link": "https://in.linkedin.com/jobs/view/full-stack-developer-at-geval6-inc-4108101598",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/geval-6-inc",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGZ4HzgqQx_Tg/company-logo_100_100/0/1631327628033",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:07:42.188Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108102439",
+    "title": "Network Engineer",
+    "company": "Sonata Software",
+    "location": "Chennai, Tamil Nadu, India",
+    "job_link": "https://in.linkedin.com/jobs/view/network-engineer-at-sonata-software-4108102439",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://in.linkedin.com/company/sonata-software",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQHHd1lirm-LdQ/company-logo_100_100/0/1630564371387/sonata_software_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:07:13.368Z"
+    },
+    "min_exp": 3,
+    "max_exp": 5,
+    "country": "India",
+    "companytype": "large"
+  },
+  {
+    "Job ID (Numeric)": "4108102409",
+    "title": "Infrastructure Validation Engineer",
+    "company": "Lakarya",
+    "location": "India",
+    "job_link": "https://in.linkedin.com/jobs/view/infrastructure-validation-engineer-at-lakarya-4108102409",
+    "seniority_level": "Entry level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "0-2 years",
+    "company_url": "https://www.linkedin.com/company/lakarya",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/C560BAQGViaEhtHG6aA/company-logo_100_100/0/1650514168617/lakarya_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:04:21.761Z"
+    },
+    "min_exp": 5,
+    "max_exp": 7,
+    "country": "India",
+    "companytype": "medium"
+  },
+  {
+    "Job ID (Numeric)": "4108106015",
+    "title": "Information Technology Marketing Manager",
+    "company": "DevRabbit IT Solutions",
+    "location": "Hyderabad, Telangana, India",
+    "job_link": "https://in.linkedin.com/jobs/view/information-technology-marketing-manager-at-devrabbit-it-solutions-4108106015",
+    "seniority_level": "Mid-Senior level",
+    "employment_type": "Full time",
+    "source": "linkedin",
+    "experience": "5-10 years",
+    "company_url": "https://www.linkedin.com/company/devrabbit-it-solutions",
+    "companyImageUrl": "https://media.licdn.com/dms/image/v2/D560BAQFGm1_zEB-aig/company-logo_100_100/0/1726745434705/devrabbit_it_solutions_logo",
+    "postedDateTime": {
+      "$date": "2024-12-23T07:04:05.058Z"
+    },
+    "min_exp": 5,
+    "max_exp": 10,
+    "country": "India",
+    "companytype": "medium"
+  }
+]
