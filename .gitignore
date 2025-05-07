@@ -58,3 +58,6 @@ next-env.d.ts
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Submodule folder (already copied)
+job-board-task/
