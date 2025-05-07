@@ -1,7 +1,6 @@
 {
   "dependencies": {
-    "esm": "^3.2.25",
-    "mongodb": "^6.16.0",
-    "mongoose": "^8.14.1"
+    "bcryptjs": "^3.0.2",
+    "jsonwebtoken": "^9.0.2"
   }
 }
